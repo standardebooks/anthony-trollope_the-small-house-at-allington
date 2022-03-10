@@ -26,6 +26,7 @@ footer{
 	text-indent: 0;
 }
 
+/* this is for a letter in which the text explictly says passages are underscored */
 .underscored{
 	text-decoration: underline;
 	text-decoration-style: solid;
