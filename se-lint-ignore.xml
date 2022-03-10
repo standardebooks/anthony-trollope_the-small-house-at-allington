@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-22.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Titlecasing error on Lord De Guest should be ignored. That’s his actual name.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-26.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Titlecasing error on Lord De Guest should be ignored. That’s his actual name.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
