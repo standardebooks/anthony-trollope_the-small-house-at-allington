@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anthony-trollope/the-small-house-at-allington</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-03-11T17:43:58Z</dc:date>
+		<meta property="dcterms:modified">2022-03-11T17:43:58Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,18 +41,17 @@
 		<meta id="collection-1" property="belongs-to-collection">Chronicles of Barsetshire</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:description id="description">An innocent young woman agrees to marry a socialite but is devastated when he opts to break off that commitment and marry the daughter of an Earl.</dc:description>
+		<dc:description id="description">An innocent young woman agrees to marry a socialite but is devastated when he opts to break his commitment and marry the daughter of an Earl.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Small House at Allington&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope&lt;/a&gt; was serialized in &lt;i&gt;Cornhill Magazine&lt;/i&gt; between July and December 1862. It is the fifth book in Trollpe’s &lt;a href="https://standardebooks.org/collections/chronicles-of-barsetshire"&gt;&lt;i&gt;Chronicles of Barsetshire&lt;/i&gt;&lt;/a&gt; series, being largely set in that fictious county of England. It includes a few of the characters from the earlier books, though largely in very minor roles. It could also be said to be the first of Trollope’s &lt;i&gt;Palliser&lt;/i&gt; series, as it introduces Plantagenet Palliser as the heir to the Duke of Omnium.&lt;/p&gt;
-			&lt;p&gt;The major story, however, relates to the inhabitants of the Small House at the manor of Allington. The Small House was once the Dower House of the estate (where the widowed mother of the squire might live in her own household away from the Great House). Now living there, however, is Mary Dale, the widow of the squire’s brother, and her two daughters, Isabella (Bell) and Lilian (Lily). The main focus of the novel is on Lily Dale, who is courted by Adolphus Crosbie, a friend of the squire’s nephew. In a matter of a few weeks, Lily falls deeply in love with Crosbie, who quickly proposes to her and is accepted. A few weeks later, however, Crosbie is visiting Courcy Castle and decides an alliance with the Earl’s daughter Alexandrina would be far preferable from a social and monetary point of view. Without speaking to Lily, he abruptly changes his plans and asks Alexandrina to marry him instead. This act of betrayal is devastating to Lily and her family.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Small House at Allington&lt;/i&gt; was originally serialized in &lt;i&gt;Cornhill Magazine&lt;/i&gt; between July and December 1862. It is the fifth book in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/chronicles-of-barsetshire"&gt;Chronicles of Barsetshire&lt;/a&gt; series, being largely set in that fictious county of England. It includes a few of the characters from the earlier books, though largely in very minor roles. It could also be said to be the first of Trollope’s Palliser series, as it introduces Plantagenet Palliser as the heir to the Duke of Omnium.&lt;/p&gt;
+			&lt;p&gt;The major story, however, relates to the inhabitants of the Small House at the manor of Allington. The Small House was once the Dower House of the estate (a household where the widowed mother of the squire might live, away from the Great House). Now living there, however, is Mary Dale, the widow of the squire’s brother, and her two daughters, Isabella (Bell) and Lilian (Lily). The main focus of the novel is on Lily Dale, who is courted by Adolphus Crosbie, a friend of the squire’s nephew. In a matter of a few weeks, Lily falls deeply in love with Crosbie, who quickly proposes to her and is accepted. A few weeks later, however, Crosbie is visiting Courcy Castle and decides an alliance with the Earl’s daughter Alexandrina would be far preferable from a social and monetary point of view. Without speaking to Lily, he abruptly changes his plans and asks Alexandrina to marry him instead. This act of betrayal is devastating to Lily and her family.&lt;/p&gt;
 			&lt;p&gt;This novel, along with the other titles in the Barsetshire series, was turned into a radio play for Radio 4 in the United Kingdom in the late 1990s. The British Prime Minister John Major was recorded in the 1990s as saying that &lt;i&gt;The Small House at Allington&lt;/i&gt; was his favorite book.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4599</dc:source>
 		<dc:source>https://archive.org/details/smallhouseatalli00troluoft</dc:source>
-		<dc:source>Portman Square</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">262042</meta>
+		<meta property="se:reading-ease.flesch">80.31</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Small_House_at_Allington</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_the-small-house-at-allington</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
@@ -80,6 +79,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
