@@ -25,3 +25,8 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+#chapter-59 blockquote em{
+	font-style: normal;
+	text-decoration: underline;
+}
